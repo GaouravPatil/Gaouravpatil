@@ -22,9 +22,9 @@
 class GaouravPatil:
     role       = "DevOps Engineer & AI Enthusiast"
     location   = "India 🇮🇳"
-    focus      = ["AI Orchestration", "FastAPI", "AnnData"]
+    focus      = ["AI Orchestration", "DevOps", "Automation"]
     projects   = ["AI Orchestrator", "AnnData Web Platform"]
-    languages  = ["Python", "Bash", "SQL", "YAML"]
+    languages  = ["Python", "Go", "Java", "c++"]
     philosophy = "Build smart. Automate more. Ship faster."
 
     def current_work(self):
@@ -234,9 +234,9 @@ mindmap
 
 ---
 
-## 🗺️ 2025 Roadmap & Goals
+## 🗺️ Current Project Roadmap & Goal
 
-- [x] ✅ Launch **AI Orchestrator v1.0** with FastAPI + AnnData
+- [x] ✅ Launch **AI Orchestrator v1.0** with FastAPI + AI
 - [x] ✅ Build modular AnnData transformation pipeline
 - [x] ✅ REST API with JWT auth & OpenAPI docs
 - [ ] 🔄 AI Orchestrator **v2.0** — LLM-powered annotation steps
@@ -253,7 +253,7 @@ mindmap
 
 > 💬 *"Always open to AI platform collaborations, interesting Python projects, and open-source contributions!"*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaouravpatil)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/gaouravpatil](https://www.linkedin.com/in/gaourav-patil-885695272/))
 [![Email Me](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaourav@example.com)
 
 ---
