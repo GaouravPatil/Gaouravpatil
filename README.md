@@ -23,7 +23,7 @@ class GaouravPatil:
     role       = "DevOps Engineer & AI Enthusiast"
     location   = "India 🇮🇳"
     focus      = ["AI Orchestration", "DevOps", "Automation"]
-    projects   = ["AI Orchestrator", "AnnData Web Platform"]
+    projects   = ["Nexus","AI Orchestration","AnnData Web Platform"]
     languages  = ["Python", "Go", "Java", "c++"]
     philosophy = "Build smart. Automate more. Ship faster."
 
