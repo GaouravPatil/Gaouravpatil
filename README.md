@@ -239,7 +239,7 @@ mindmap
 - [x] ✅ Launch **AI Orchestrator v1.0** with FastAPI + AI
 - [x] ✅ Build modular AnnData transformation pipeline
 - [x] ✅ REST API with JWT auth & OpenAPI docs
-- [ ] 🔄 AI Orchestrator **v2.0** — LLM-powered annotation steps
+- [x] 🔄 AI Orchestrator **v2.0** — LLM-powered annotation steps
 - [ ] 🔄 React-based **Web UI dashboard** for pipeline management
 - [ ] 🔄 Publish reusable **PyPI package** for AnnData utilities
 - [ ] 🔄 Add **experiment tracking** with MLflow integration
